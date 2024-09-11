@@ -73,5 +73,5 @@ The MagicMirror module script (`MMM-TeamsCalendar.js`) is responsible for render
 
 ## Notes
 
-- Repository URL: https://github.com/juniorrrfagundes/MMM-MonthCalendar
+- Repository URL: https://github.com/juniorrrfagundes/MMM-TeamsCalendar
 - Author: Junior Rafael Fagundes https://github.com/juniorrrfagundes
