@@ -71,14 +71,7 @@ The MagicMirror module script (`MMM-TeamsCalendar.js`) is responsible for render
     }
     ```
 
-## Contributing
+## Notes
 
-Feel free to contribute to the project by submitting issues or pull requests. 
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+- Repository URL: https://github.com/juniorrrfagundes/MMM-MonthCalendar
+- Author: Junior Rafael Fagundes https://github.com/juniorrrfagundes
